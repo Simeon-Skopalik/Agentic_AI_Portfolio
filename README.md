@@ -7,4 +7,4 @@ LangGraph, LangChain, FAISS and LangSmith.
 ## Projects
 | Project | What it shows | Stack |
 |---|---|---|
-| [Customer Support Multi-Agent System](projects/01_support_multi_agent) | Supervisor routing, tool-using agents, guardrails | LangGraph, pandas, Tavily |
+| [Customer Support Multi-Agent System](Projects/01_Support_Multi_Agent) | Supervisor routing, tool-using agents, guardrails | LangGraph, pandas, Tavily |
