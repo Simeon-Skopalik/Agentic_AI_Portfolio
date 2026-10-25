@@ -8,3 +8,4 @@ LangGraph, LangChain, FAISS and LangSmith.
 | Project | What it shows | Stack |
 |---|---|---|
 | [Customer Support Multi-Agent System](Projects/01_Support_Multi_Agent) | Supervisor routing, tool-using agents, guardrails | LangGraph, pandas, Tavily |
+| [Policy RAG Assistant](projects/02_Policy_Rag_Assistant) | Grounded answers with file + page citations | FAISS, embeddings |
